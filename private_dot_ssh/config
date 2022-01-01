@@ -1,0 +1,4 @@
+Host rpi
+  User pi
+  HostName 192.168.178.56
+  IdentityFile /Users/simon/.ssh/id_ed25519

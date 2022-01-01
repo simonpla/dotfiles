@@ -1,0 +1,11 @@
+:DartAnalysisServerDiagnostics	lsc_dart.txt	/*:DartAnalysisServerDiagnostics*
+:DartOrganizeImports	lsc_dart.txt	/*:DartOrganizeImports*
+:DartToggleMethodBodyType	lsc_dart.txt	/*:DartToggleMethodBodyType*
+g:lsc_dart_enable_completion_ml	lsc_dart.txt	/*g:lsc_dart_enable_completion_ml*
+g:lsc_dart_enable_log	lsc_dart.txt	/*g:lsc_dart_enable_log*
+g:lsc_dart_sdk_path	lsc_dart.txt	/*g:lsc_dart_sdk_path*
+lsc-dart	lsc_dart.txt	/*lsc-dart*
+lsc-dart-commands	lsc_dart.txt	/*lsc-dart-commands*
+lsc-dart-configure	lsc_dart.txt	/*lsc-dart-configure*
+lsc-dart-configure-log	lsc_dart.txt	/*lsc-dart-configure-log*
+lsc-dart-intro	lsc_dart.txt	/*lsc-dart-intro*
